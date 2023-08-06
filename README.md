@@ -1,15 +1,30 @@
-<b>Ссылка на сайт -</b>
+<b>Ссылка на сайт - https://kirillrusacoff.github.io/forest-travel/index.html </b>
 
 ![HEADER (2)](https://github.com/KirillRusacoff/forest-travel/assets/121468262/675d1c43-781d-44de-9c56-85cbffb35f9c)
+
+********************
+An adaptive, cross-browser, valid layout of 4 pages of a multi-page website according to the "Figma" layout has been performed.
+
+Technologies used:<b>HTML5, CSS3, Sass(CSS), JavaScript</b>.
+
+<b>The site consists of 4 sections:</b>
+<p>Home page – https://kirillrusacoff.github.io/forest-travel/index.html</p>
+<p>A block with cards – https://kirillrusacoff.github.io/forest-travel/tours.html</p>
+<p>Article block – https://kirillrusacoff.github.io/forest-travel/article.html</p>
+<p> "Contacts" page with "Ifaim" card and feedback form – https://kirillrusacoff.github.io/forest-travel/contacts.html</p>
+
+The work is optimized for PageSpeed.
+
+*********************
 
 Выполнена адаптивная, кроссбраузерная, валидная верстка 4 страниц многостраничного сайта по макету "Figma".
 
 Использованные технологии: <b>HTML5, CSS3, Sass(SCSS), JavaScript</b>.
 
 <b>Сайт состоит из 4-х разделов:</b>
-<p>Главная страница – </p>
-<p>Блок с карточками – </p>
-<p>Блок со статьей – </p>
-<p>Страница "Контакты" с картой "Ifaim" и формой обратной связи – </p>
+<p>Главная страница – https://kirillrusacoff.github.io/forest-travel/index.html </p>
+<p>Блок с карточками – https://kirillrusacoff.github.io/forest-travel/tours.html </p>
+<p>Блок со статьей – https://kirillrusacoff.github.io/forest-travel/article.html </p>
+<p>Страница "Контакты" с картой "Ifaim" и формой обратной связи – https://kirillrusacoff.github.io/forest-travel/contacts.html </p>
 
 Работа оптимизирована под  Page Speed.
