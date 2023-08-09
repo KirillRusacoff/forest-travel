@@ -1,7 +1,5 @@
 <b>Ссылка на сайт - https://kirillrusacoff.github.io/forest-travel/index.html </b>
 
-![HEADER (2)](https://github.com/KirillRusacoff/forest-travel/assets/121468262/675d1c43-781d-44de-9c56-85cbffb35f9c)
-
 ********************
 An adaptive, cross-browser, valid layout of 4 pages of a multi-page website according to the "Figma" layout has been performed.
 
@@ -13,7 +11,7 @@ Technologies used:<b>HTML5, CSS3, Sass(CSS), JavaScript</b>.
 <p>Article block – https://kirillrusacoff.github.io/forest-travel/article.html</p>
 <p> "Contacts" page with "Ifaim" card and feedback form – https://kirillrusacoff.github.io/forest-travel/contacts.html</p>
 
-The work is optimized for PageSpeed.
+The work is optimized for PageSpeed (98%).
 
 *********************
 
@@ -27,4 +25,9 @@ The work is optimized for PageSpeed.
 <p>Блок со статьей – https://kirillrusacoff.github.io/forest-travel/article.html </p>
 <p>Страница "Контакты" с картой "Ifaim" и формой обратной связи – https://kirillrusacoff.github.io/forest-travel/contacts.html </p>
 
-Работа оптимизирована под  Page Speed.
+Работа оптимизирована под  Page Speed (98%).
+
+********************
+
+![Desktop 1200+ (1)](https://github.com/KirillRusacoff/forest-travel/assets/121468262/c276cb5d-f8f5-4866-b1de-b1062900d493)
+
