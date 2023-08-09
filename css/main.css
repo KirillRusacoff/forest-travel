@@ -9,9 +9,7 @@
 
 /* line 7, ../../../../OneDrive/Рабочий стол/Проги и т.п/IT/Тренировка/forest-travel/sass/base/_base.scss */
 html, body {
-  max-width: 1600px;
   height: 100%;
-  margin: 0 auto;
   scroll-behavior: smooth;
 }
 
