@@ -11,7 +11,7 @@ Technologies used:<b>HTML5, CSS3, Sass(CSS), JavaScript</b>.
 <p>Article block – https://kirillrusacoff.github.io/forest-travel/article.html</p>
 <p>"Contacts" block with Yandex card and feedback form – https://kirillrusacoff.github.io/forest-travel/contacts.html</p>
 
-The work is optimized for PageSpeed (98%).
+The work is optimized for PageSpeed (98).
 
 *********************
 
@@ -25,7 +25,7 @@ The work is optimized for PageSpeed (98%).
 <p>Блок со статьей – https://kirillrusacoff.github.io/forest-travel/article.html </p>
 <p>Блок "Контакты" с картой Яндекс и формой обратной связи – https://kirillrusacoff.github.io/forest-travel/contacts.html </p>
 
-Работа оптимизирована под  Page Speed (98%).
+Работа оптимизирована под  Page Speed (98).
 
 ********************
 
